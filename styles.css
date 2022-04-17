@@ -1,0 +1,33 @@
+body {
+    background-color: #2FA4FF;
+}
+
+h1 {
+    color: #aaa9ad;
+    font-family: 'Open Sans', 'Arial', sans-serif;
+}
+
+p {
+    color: #DFDFDE;
+    width: 500px;
+    font-family: 'Open Sans', 'Arial', sans-serif;
+}
+
+li {
+    color: #DFDFDE;
+    margin: 5px;
+    width: 480px;
+    font-family: 'Open Sans', 'Arial', sans-serif;
+}
+
+h3 {
+    font-family: Geneva, Tahoma, Verdana, sans-serif;
+}
+
+td {
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    color: white;
+}
